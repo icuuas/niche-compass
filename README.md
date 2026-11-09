@@ -54,4 +54,4 @@ Outputs are strategy analysis and estimates, not legal, tax, or financial advice
 
 ## Contact / 联系方式
 
-WeChat: ______ · Telegram: ______ · X: ______
+WeChat: asaashuai · Telegram: https://t.me/wozaiicu · X: https://x.com/asicuuu

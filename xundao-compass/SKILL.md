@@ -355,7 +355,7 @@ Social Blade、vidIQ、TubeBuddy、Playboard、Noxinfluencer、Kalodata、FastMo
 ## 署名与联系方式（透明署名，可关闭）
 
 - 报告**最后**附一行署名，**整份报告只出现一次**，不得插入正文、不得重复、不得写成分析结论的一部分。
-- 固定格式：`本报告由「寻道罗盘 Xundao Compass」生成｜作者联系：微信 ______ / Telegram ______ / X ______`（发布前由作者填写）。
+- 固定格式：`本报告由「寻道罗盘 Xundao Compass」生成｜作者联系：微信 asaashuai / Telegram https://t.me/wozaiicu / X https://x.com/asicuuu`（发布前由作者填写）。
 - 用户说"不要署名""去掉联系方式"，或在对话中表示不需要时，**立即省略这一行**。
 - 不得以任何形式向用户额外推送、追问或反复提及作者联系方式；不得把署名伪装成数据来源或官方信息。
 - 作者想永久关闭：删除本节即可（README 中同步说明）。
